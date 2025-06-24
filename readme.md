@@ -1,8 +1,3 @@
-Here’s a well-crafted `README.md` for your **Rust Bootcamp Submission Repo**:
-
----
-
-```markdown
 # 🦀 Rust Solana Classes – Assignment Submissions
 
 Welcome to the official submission repository for the **Rust Solana Classes**   
@@ -82,5 +77,3 @@ Some episodes may have bonus challenges. Completing them will earn you special m
 If you're stuck or have any questions, reach out on the Telegram channel or during the live sessions.
 
 Happy hacking! 🦀
-
-```
