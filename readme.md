@@ -33,7 +33,7 @@ assignments/
 2. **Clone** your fork locally:
    ```bash
    git clone https://github.com/SoleerLabs/rust-solana-classes.git
-````
+   ````
 
 3. **Create a new branch** for your submission:
 
