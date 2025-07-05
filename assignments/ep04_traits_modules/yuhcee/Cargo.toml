@@ -1,0 +1,6 @@
+[package]
+name = "yuhcee_ep04_traits_modules"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
