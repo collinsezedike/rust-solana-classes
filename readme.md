@@ -46,14 +46,28 @@ assignments/
    mkdir -p assignments/ep01_intro_to_rust/YOUR_USERNAME
    ```
 5. **Add your code** (`main.rs`, `Cargo.toml`, etc.) into your folder.
-6. **Commit and push**:
+
+   ```bash
+   cd assignments/ep01_intro_to_rust/YOUR_USERNAME
+   cargo init
+   ```
+  
+6. **Edit your `Cargo.toml` and append the lesson's folder name to the [package] section:**
+
+   ```toml
+   [package]
+   name = "your_username_ep01_intro_to_rust"
+   ```
+   Do this for each lesson to have unique names for your Cargo.toml files.
+
+7. **Commit and push**:
 
    ```bash
    git add .
    git commit -m "Add solution for EP01"
    git push origin ep01-my-solution
    ```
-7. **Open a Pull Request** to the `main` branch on GitHub.
+8. **Open a Pull Request** to the `main` branch on GitHub.
 
 ---
 
